@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rqm/static/css/main.b47c9193.css",
+    "main.js": "/rqm/static/js/main.9cc8633a.js",
+    "index.html": "/rqm/index.html",
+    "main.b47c9193.css.map": "/rqm/static/css/main.b47c9193.css.map",
+    "main.9cc8633a.js.map": "/rqm/static/js/main.9cc8633a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b47c9193.css",
+    "static/js/main.9cc8633a.js"
+  ]
+}
