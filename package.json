@@ -2,6 +2,7 @@
   "name": "rqm",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://{tapiwa-pawandiwa}.github.io/rqm",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.2",
@@ -26,6 +27,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
